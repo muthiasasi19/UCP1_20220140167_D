@@ -105,19 +105,19 @@ body {
 }
 
 .carousel {
-    margin-top: 20px; /* Menambahkan margin atas untuk memisahkan carousel dari header */
+    margin-top: 20px; 
 }
 
 .carousel-inner {
     
-    text-align: center; /* Menengahkan konten dalam carousel */
+    text-align: center; 
 }
 
 .carousel-item {
-    display: inline-block; /* Membuat item carousel tampil sebagai inline block */
+    display: inline-block; 
 }
 
 .center-image {
-    display: block; /* Mengubah gambar menjadi blok agar dapat menggunakan margin: auto; */
+    display: block; 
     margin: auto;
 }
